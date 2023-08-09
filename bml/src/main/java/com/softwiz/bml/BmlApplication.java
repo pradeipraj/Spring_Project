@@ -8,6 +8,7 @@ public class BmlApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BmlApplication.class, args);
+		System.out.println("GIT Test Success");
 	}
 
 }
